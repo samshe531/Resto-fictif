@@ -1,0 +1,13 @@
+
+nav {
+    background-color: rgba(141, 93, 160, 0.527);
+    img{
+width: 120px;
+}
+}
+.conteneurCard{
+    display: flex;
+    justify-content: center ;
+    gap: 2%;
+    margin: 5%;
+}
